@@ -1,7 +1,8 @@
 # rl
 
 > A Vue.js project
-
+ imitate an air company website
+ origin site [https://www.rlair.net/#/?_k=ct62hy]
 ## Build Setup
 
 ``` bash
