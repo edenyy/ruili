@@ -2,7 +2,7 @@
 
 > A Vue.js project
  imitate an air company website
- ##项目预览地址[https://edenyy.github.io/rl/index.html#/]
+ ## 项目预览地址[https://edenyy.github.io/rl/index.html#/]
 ## Build Setup
 
 ``` bash
