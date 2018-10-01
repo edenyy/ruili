@@ -2,7 +2,7 @@
 
 > A Vue.js project
  imitate an air company website
- origin site [https://www.rlair.net/#/?_k=ct62hy]
+ ##项目预览地址[https://edenyy.github.io/rl/index.html#/]
 ## Build Setup
 
 ``` bash
