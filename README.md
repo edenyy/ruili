@@ -4,7 +4,7 @@
  imitate an air company website
  ## 项目预览地址[https://edenyy.github.io/rl/index.html#/]
 ## Build Setup
-
+[![ice](https://img.shields.io/badge/developing%20with-ICE-2077ff.svg)](https://github.com/alibaba/ice)
 ``` bash
 # install dependencies
 npm install
